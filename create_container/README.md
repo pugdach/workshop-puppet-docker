@@ -1,5 +1,7 @@
 # Create Docker containers from Puppet code
 
+examples folder is taken from puppetlabs/puppetlabs-image_build module
+
 ## Directly building containers
 
     cd examples/nginx
