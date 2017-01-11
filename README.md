@@ -1,6 +1,6 @@
 # PUG Berlin
 
-## Puppet <3 Docker
+## Puppet <3 Docker - 18 Jan 2017
 
 ### Part 1:
 

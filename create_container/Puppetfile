@@ -1,0 +1,6 @@
+mod 'image_build', :git => 'https://github.com/puppetlabs/puppetlabs-image_build'
+mod 'docker', :git => 'https://github.com/garethr/garethr-docker.git'
+mod 'stdlib', :git => 'https://github.com/puppetlabs/puppetlabs-stdlib.git'
+mod 'apt',    :git => 'https://github.com/puppetlabs/puppetlabs-apt.git'
+mod 'epel',   :git => 'https://github.com/stahnma/puppet-module-epel.git'
+
